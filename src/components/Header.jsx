@@ -11,7 +11,7 @@ import {
 const Header = () => {
   return (
     <>
-      <nav className="py-4 flex justify-between items-center">
+      <nav className="py-4 px-8 flex justify-between items-center">
         <Link>
           <img src="./logo.png" alt="logo" className="h-20" />
         </Link>
