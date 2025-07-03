@@ -2,7 +2,32 @@ import React from 'react'
 
 const Landingpage = () => {
   return (
-    <div>Landingpage</div>
+   <main>
+    <section>
+      <h1>Find Your Dream Job</h1>
+    </section>
+
+    <div>
+
+      {/* buttons */}
+      {/* carousel */}
+    </div>
+
+
+    {/* banner */}
+
+
+    <section>
+      {/* cards */}
+    </section>
+
+
+    {/* accordion */}
+
+
+
+
+   </main>
   )
 }
 
