@@ -127,7 +127,7 @@ const Landingpage = () => {
 
     {/* accordion */}
 
-    <Accordion type="single" collapsible>
+    <Accordion type="multiple " collapsible  className = "w-full px-5">
 
       {faq.map((faq,index)=>(
 
